@@ -2,7 +2,7 @@ public class Palindrome {
     public static void main(String[]args){
         int x=121;
         int y=x;
-        int b=0;
+        int b=20;
         while(x!=0)
         {
             int a=x%10;
